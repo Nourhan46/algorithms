@@ -1,8 +1,6 @@
 package InsertionSort;
 
-import java.util.List;
-
-public class SelectionSort {
+public class InsertionSort {
    static public int [] sort(int [] nums)
     {
         int n=nums.length;
